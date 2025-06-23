@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial machine learning with R: caret, tidymodels, and mlr3\n\n\n\n\n\n\nrstats\n\n\nsml\n\n\n\n\n\n\n\n\n\nApr 30, 2025\n\n\nJakub Nowosad\n\n\n\n\n\n\nNo matching items"
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "posts/sml-bp1/index.html",
@@ -39,6 +25,20 @@
     "href": "posts/sml-bp1/index.html#footnotes",
     "title": "Spatial machine learning with R: caret, tidymodels, and mlr3",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nSource of the data: Milà et al. (2024), https://doi.org/10.5194/gmd-17-6007-2024↩︎\nOr the hyperparameter tuning grid, in a more advanced scenario.↩︎\nIt is not a wrapper for the CAST package, but a separate implementation with some differences as you may read in the function documentation – ?ww_area_of_applicability↩︎\nThus, this approach allow to check the AoA for each new data set, not only the training data.↩︎"
+    "text": "Footnotes\n\n\nSource of the data: Milà et al. (2024), https://doi.org/10.5194/gmd-17-6007-2024↩︎"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 23, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 20, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial machine learning with R: caret, tidymodels, and mlr3\n\n\n\nrstats\n\nsml\n\n\n\n\n\n\n\n\n\nApr 30, 2025\n\n\nJakub Nowosad\n\n\n\n\n\nNo matching items"
   }
 ]
